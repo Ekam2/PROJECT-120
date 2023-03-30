@@ -1,0 +1,68 @@
+.test_image_and_result1{
+    margin-top: 15px;
+    background-color: rgb(155, 153, 153);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px grey;
+    width:100%;
+    margin-bottom: 15px;
+    background-color:darksalmon;
+}
+
+.test_image_and_result1:hover{
+background: radial-gradient(circle, rgba(251,196,63,1) 0%, rgba(70,189,252,1) 100%);
+}
+
+#welcome_user_name{
+    background: rgb(13,226,227);
+}
+
+#welcome_user_name:hover{
+    color: aliceblue;
+    background: rgb(13,226,227);
+    background: linear-gradient(90deg, rgba(67,73,54,1) 29%, rgba(176,155,180,1) 59%, rgba(203,186,142,1) 84%);}
+
+.white1{
+    color: white;
+}
+
+.bottom{  
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+h5{
+    background: rgb(195,34,89);
+    font-size: 18px;
+    border-radius: 100px;
+   
+}
+
+h5:hover{
+    font-size: 20px;
+    background: radial-gradient(circle, rgba(34,89,1) 0%, rgba(220,255,29,1) 98%);
+    border-radius: 30px;
+}
+
+
+
+#m{
+    font-size: 28px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: rgb(227,220,13);
+}
+
+#m:hover{
+    background: linear-gradient(90deg, rgba(227,220,13,1) 29%, rgba(242,127,19,1) 54%, rgba(251,10,51,1) 75%);
+
+}
+
+body{
+    align-self: center;
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
